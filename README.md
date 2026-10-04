@@ -2,11 +2,10 @@
 
 An end-to-end, 4-page interactive Power BI report simulating an executive sales intelligence suite for an e-commerce brand (modeled on Amazon-style retail data). Built to surface not just *what's happening* in the business, but *why* — pairing every chart with the underlying risk or opportunity it reveals.
 
-![Cover Page](screenshots/00-cover.png)
+![Cover Page](Cover.png)
 
 ## 🔗 Quick Links
-- [Download the .pbix](pbix/Amazon_Sales_Dashboard.pbix)
-- [DAX Measures Reference](docs/dax-measures.md)
+- [Download the .pbix](Amazon_Sales_Dashboard.pbix)
 
 ---
 
@@ -19,7 +18,7 @@ Most portfolio dashboards stop at "here are some charts." This project was built
 ---
 
 ## 🏠 Page 1 — Sales Executive Overview
-![Sales Executive Dashboard](screenshots/01-sales-executive.png)
+![Sales Executive Dashboard](Sales%20Executive.png)
 
 High-level company performance: revenue trend, category mix, geographic split, and category-level risk scoring — designed for a 30-second executive skim.
 
@@ -35,7 +34,7 @@ High-level company performance: revenue trend, category mix, geographic split, a
 ---
 
 ## 🔍 Page 2 — Category & Product Deep Dive
-![Category Deep Dive](screenshots/02-category-deep-dive.png)
+![Category Deep Dive](Category%20Deep%20Dive.png)
 
 Drills into *why* category-level performance looks the way it does — separating genuine stockout risk from dead inventory, which look identical at a glance but require opposite strategic responses.
 
@@ -50,7 +49,7 @@ Drills into *why* category-level performance looks the way it does — separatin
 ---
 
 ## 🌍 Page 3 — Country Insights
-![Country Insights](screenshots/03-country-insights.png)
+![Geographical Analysis](Geographical%20Analysis.png)
 
 Geographic concentration and market-quality analysis — moving past "which country sells most" into "which markets are actually worth investing in."
 
@@ -65,7 +64,7 @@ Geographic concentration and market-quality analysis — moving past "which coun
 ---
 
 ## ⚠️ Page 4 — Risk & Strategy
-![Risk & Strategy](screenshots/04-risk-strategy.png)
+![Risk & Strategy](Risk%20&%20Strategy.png)
 
 The executive summary page — synthesizes every risk found across the previous three pages into one scorecard, plus two new findings specific to this page: a broken loyalty program and a single-point conversion bottleneck.
 
@@ -109,7 +108,7 @@ This project was built to demonstrate depth beyond basic chart-building:
 
 ## 📂 How to Use
 1. Clone or download this repository
-2. Open `/pbix/Amazon_Sales_Dashboard.pbix` in Power BI Desktop (free download from Microsoft)
+2. Open `Amazon_Sales_Dashboard.pbix` in Power BI Desktop (free download from Microsoft)
 3. Navigate the 4 pages via the sidebar buttons or page tabs at the bottom
 
 *Note: this is a local .pbix file — there is no hosted live-service link. All screenshots above reflect the actual, functioning report.*
