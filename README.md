@@ -117,4 +117,4 @@ This project was built to demonstrate depth beyond basic chart-building:
 
 ## 📬 Contact
 Built by **Mohammad Saad Khan**
-[LinkedIn](#) · [GitHub](#)
+   [LinkedIn](https://www.linkedin.com/in/saad-khan-data-analyst) · [GitHub](https://github.com/Saad-2605)
